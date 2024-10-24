@@ -10,9 +10,9 @@ This project demonstrates the creation of a fully functional ETL (Extract, Trans
 
 ## Features
 
-- Modular ETL design**
-- Automation and scheduling with Apache Airflow**
-- Scalable for additional data sources and targets**
+- Modular ETL design
+- Automation and scheduling with Apache Airflow
+- Scalable for additional data sources and targets
 
 ## Prerequisites
 
